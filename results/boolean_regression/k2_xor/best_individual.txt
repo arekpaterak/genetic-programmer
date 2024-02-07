@@ -1,0 +1,40 @@
+if ((not VAR_0 - VAR_0 != VAR_0)) {
+  VAR_0 <- True;
+} else {
+  VAR_1 <- input;
+};
+if ((not True) and (not VAR_0)) {
+  output <- True;
+} else {
+  VAR_1 <- input;
+};
+if ((not True) and (- 0) <= 1) {
+  VAR_1 <- 0 * VAR_0 != VAR_1;
+} else {
+  VAR_2 <- input;
+};
+if (True) {
+  VAR_5 <- input;
+};
+if ((not 0 == 0)) {
+  VAR_3 <- VAR_0 or False and 0 == VAR_4;
+};
+VAR_0 <- 0 - 1 * VAR_1 / 1;
+if (False) {
+  VAR_0 <- input;
+} else {
+  output <- VAR_1 or False and (not VAR_2);
+};
+if (False or VAR_5 or True or True) {
+  output <- VAR_0 / 0 - 1;
+} else {
+  VAR_6 <- input;
+};
+if (VAR_6) {
+  VAR_7 <- input;
+} else {
+  output <- (not VAR_5) or VAR_0 == 1;
+};
+if (1 - 0 > (- 0)) {
+  VAR_7 <- input;
+};

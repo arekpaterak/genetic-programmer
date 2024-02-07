@@ -1,0 +1,30 @@
+{
+    "generator": {
+        "seed": null,
+        "int_min": 0,
+        "int_max": 1,
+        "use_floats": false,
+        "float_min": null,
+        "float_max": null,
+        "full_method": true,
+        "max_expression_size": 4,
+        "max_program_depth": 2,
+        "max_program_width": 10,
+        "max_block_width": 1,
+        "use_loops": false
+    },
+    "interpreter": {
+        "limit_of_instructions": 1000
+    },
+    "genetic_programmer": {
+        "seed": null,
+        "population_size": 200,
+        "max_generations": 1000,
+        "tournament_size": 10,
+        "population_init_method": "half_and_half",
+        "changes_per_generation": 33,
+        "crossover_probability": 0.2
+    },
+    "results_dir": "results/boolean_regression",
+    "tasks_dir": "tasks/boolean_regression"
+}

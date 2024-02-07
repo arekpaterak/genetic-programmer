@@ -1,0 +1,4 @@
+VAR_0 <- VAR_0 or VAR_1;
+VAR_2 <- (- 7);
+output <- VAR_0;
+VAR_1 <- VAR_1 and VAR_0;

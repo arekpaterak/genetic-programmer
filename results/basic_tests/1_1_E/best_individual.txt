@@ -1,0 +1,4 @@
+VAR_0 <- 504 / (- 603) > (- VAR_0);
+output <- VAR_0 - VAR_0 - (- 789);
+VAR_1 <- input;
+output <- (- 272) > (- VAR_0);

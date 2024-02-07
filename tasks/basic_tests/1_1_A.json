@@ -1,0 +1,40 @@
+[
+    {
+        "inputs": null,
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            1
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            0
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            true
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            false
+        ],
+        "outputs": [
+            1
+        ]
+    }
+]

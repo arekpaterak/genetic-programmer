@@ -1,0 +1,2 @@
+VAR_1 <- input;
+output <- VAR_1 + VAR_0;

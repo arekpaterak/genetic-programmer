@@ -1,0 +1,5 @@
+VAR_0 <- VAR_0 * 603 / 669 + VAR_0;
+output <- 767 - VAR_0 / 527 * VAR_2;
+output <- 774 + VAR_1 + (- VAR_0);
+VAR_0 <- 113;
+output <- 767 - VAR_0 / 527 * VAR_2;

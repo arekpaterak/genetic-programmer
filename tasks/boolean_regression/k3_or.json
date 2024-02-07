@@ -1,0 +1,82 @@
+[
+    {
+        "inputs": [
+            true,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            false
+        ],
+        "outputs": [
+            false
+        ]
+    }
+]

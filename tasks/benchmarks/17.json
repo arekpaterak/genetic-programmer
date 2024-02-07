@@ -1,0 +1,82 @@
+[
+    {
+        "inputs": [
+            1
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            0
+        ],
+        "outputs": [
+            0
+        ]
+    },
+    {
+        "inputs": [
+            3
+        ],
+        "outputs": [
+            3
+        ]
+    },
+    {
+        "inputs": [
+            -5
+        ],
+        "outputs": [
+            0
+        ]
+    },
+    {
+        "inputs": [
+            -10
+        ],
+        "outputs": [
+            0
+        ]
+    },
+    {
+        "inputs": [
+            4
+        ],
+        "outputs": [
+            4
+        ]
+    },
+    {
+        "inputs": [
+            2
+        ],
+        "outputs": [
+            2
+        ]
+    },
+    {
+        "inputs": [
+            -9
+        ],
+        "outputs": [
+            0
+        ]
+    },
+    {
+        "inputs": [
+            -100
+        ],
+        "outputs": [
+            0
+        ]
+    },
+    {
+        "inputs": [
+            7
+        ],
+        "outputs": [
+            7
+        ]
+    }
+]

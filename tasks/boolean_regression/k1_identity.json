@@ -1,0 +1,18 @@
+[
+    {
+        "inputs": [
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false
+        ],
+        "outputs": [
+            false
+        ]
+    }
+]

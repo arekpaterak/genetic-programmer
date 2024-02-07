@@ -1,0 +1,92 @@
+[
+    {
+        "inputs": [
+            2,
+            4
+        ],
+        "outputs": [
+            4
+        ]
+    },
+    {
+        "inputs": [
+            6,
+            5
+        ],
+        "outputs": [
+            6
+        ]
+    },
+    {
+        "inputs": [
+            8,
+            9
+        ],
+        "outputs": [
+            9
+        ]
+    },
+    {
+        "inputs": [
+            6,
+            4
+        ],
+        "outputs": [
+            6
+        ]
+    },
+    {
+        "inputs": [
+            0,
+            8
+        ],
+        "outputs": [
+            8
+        ]
+    },
+    {
+        "inputs": [
+            7,
+            4
+        ],
+        "outputs": [
+            7
+        ]
+    },
+    {
+        "inputs": [
+            5,
+            9
+        ],
+        "outputs": [
+            9
+        ]
+    },
+    {
+        "inputs": [
+            2,
+            1
+        ],
+        "outputs": [
+            2
+        ]
+    },
+    {
+        "inputs": [
+            4,
+            0
+        ],
+        "outputs": [
+            4
+        ]
+    },
+    {
+        "inputs": [
+            3,
+            9
+        ],
+        "outputs": [
+            9
+        ]
+    }
+]

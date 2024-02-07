@@ -1,0 +1,86 @@
+[
+    {
+        "inputs": null,
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            1
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            0
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            true
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            false
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            508,
+            193
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            217,
+            165,
+            -10
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            712,
+            259
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            895,
+            649
+        ],
+        "outputs": [
+            1
+        ]
+    },
+    {
+        "inputs": [
+            890,
+            272
+        ],
+        "outputs": [
+            1
+        ]
+    }
+]

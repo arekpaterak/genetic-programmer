@@ -1,0 +1,4 @@
+if (VAR_0) {
+  VAR_0 <- input;
+  VAR_0 <- input;
+};

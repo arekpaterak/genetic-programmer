@@ -1,0 +1,11 @@
+if (False or (not (- 1) >= (- VAR_0))) {
+  output <- (not VAR_1) and 0 == 1;
+};
+if ((- VAR_4) >= VAR_2) {
+  VAR_2 <- VAR_1;
+} else {
+  output <- VAR_3 and VAR_1;
+};
+if (False or (not VAR_0) and (not VAR_0)) {
+  VAR_0 <- input;
+};

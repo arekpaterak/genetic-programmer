@@ -1,0 +1,386 @@
+[
+    {
+        "inputs": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "outputs": [
+            false
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            false,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            false,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            true,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            true,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            true,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            false,
+            true,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            false,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            false,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            false,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            false,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            true,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            true,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            true,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            false,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            false,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            false,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            true,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            true,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            true,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            false,
+            true,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            false,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            false,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            false,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "outputs": [
+            true
+        ]
+    },
+    {
+        "inputs": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "outputs": [
+            true
+        ]
+    }
+]

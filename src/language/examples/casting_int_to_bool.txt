@@ -1,0 +1,7 @@
+VAR_0 <- 0;
+
+if (VAR_0) {
+    output <- True;
+} else {
+    output <- False;
+};

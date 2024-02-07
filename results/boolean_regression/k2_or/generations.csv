@@ -1,0 +1,7 @@
+Generation,Best Fitness,Average Fitness,Best Individual
+0,-1,-56006.70466666666,output <- VAR_0 > (- 5); VAR_0 <- input; VAR_0 <- 6 * VAR_0; VAR_1 <- VAR_1 and VAR_0;
+1,-1,-14005.184666666666,output <- VAR_0 > (- 5); VAR_0 <- input; VAR_0 <- 6 * VAR_0; VAR_1 <- VAR_1 and VAR_0;
+2,-1,-12002.811333333333,output <- VAR_0 > (- 10); VAR_1 <- input; VAR_1 <- input; VAR_0 <- VAR_0 or VAR_0; VAR_1 <- VAR_0 + 1;
+3,-1,-8001.938,output <- VAR_0 > (- 10); VAR_1 <- input; VAR_1 <- input; VAR_0 <- VAR_0 or VAR_0; VAR_1 <- VAR_0 + 1;
+4,-1,-16001.378,output <- VAR_0 > (- 10); VAR_1 <- input; VAR_1 <- input; VAR_0 <- VAR_0 or VAR_0; VAR_1 <- VAR_0 + 1;
+5,0,-18001.0,VAR_0 <- VAR_0 or VAR_1; VAR_2 <- (- 7); output <- VAR_0; VAR_1 <- VAR_1 and VAR_0;

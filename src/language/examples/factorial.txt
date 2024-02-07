@@ -1,0 +1,15 @@
+VAR_0 <- input;
+
+if (VAR_0 < 0) {
+    output <- -1;
+} else {
+    VAR_1 <- 1;
+    VAR_2 <- 1;
+
+    while (VAR_1 <= VAR_0) {
+        VAR_2 <- VAR_2 * VAR_1;
+        VAR_1 <- VAR_1 + 1;
+    };
+
+    output <- VAR_2;
+};

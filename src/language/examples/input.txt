@@ -1,0 +1,14 @@
+VAR_1 <- input;
+
+VAR_11 <- input;
+
+if (VAR_1 > 10) {
+    output <- VAR_11 * -10;
+} else {
+    output <- VAR_11 + 1 * 20;
+};
+
+while (VAR_1 <= 10){
+    output <- VAR_1;
+    VAR_1 <- VAR_1 + 1;
+};

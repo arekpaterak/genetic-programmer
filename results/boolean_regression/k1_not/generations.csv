@@ -1,0 +1,2 @@
+Generation,Best Fitness,Average Fitness,Best Individual
+0,0,-58001.93,VAR_0 <- input; output <- 1 - VAR_0; VAR_0 <- VAR_0;

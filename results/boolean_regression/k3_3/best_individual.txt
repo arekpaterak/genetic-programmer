@@ -1,0 +1,4 @@
+VAR_0 <- input;
+VAR_1 <- input;
+VAR_1 <- input;
+output <- VAR_1 or False;

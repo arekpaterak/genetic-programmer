@@ -1,0 +1,9 @@
+{
+    "seed": null,
+    "population_size": 200,
+    "max_generations": 1000,
+    "tournament_size": 10,
+    "population_init_method": "half_and_half",
+    "changes_per_generation": 33,
+    "crossover_probability": 0.7
+}
